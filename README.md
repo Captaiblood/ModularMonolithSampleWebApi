@@ -9,7 +9,7 @@
 
   <p align="center">
     This is a striped down version of Web Applications using Modular Architecture in ASP.NET Core. Microservices architecture was the prefered choice to rebuild 
-    the application. But with Microservice architecture come lost more complexities as compared to well designed monolith or going bit further with Modular Architecture.
+    the application. But with Microservice architecture come lots more complexities as compared to well designed monolith or going bit further with Modular Architecture.
     <br />
   
 </div>
